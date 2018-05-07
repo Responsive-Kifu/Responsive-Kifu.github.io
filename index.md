@@ -34,7 +34,7 @@ $ npm install
 で依存するモジュールをインストールします。
 
 ```
-$ npm start:dev
+$ npm run start:dev
 ```
 
 このコマンドを実行すると、ブラウザが自動的に立ち上がり、開発の準備は完了です。
@@ -42,7 +42,7 @@ $ npm start:dev
 ### ビルド
 
 ```
-$ npm build
+$ npm run build
 ```
 
 このコマンドでリリース用のjsファイルを生成します。
