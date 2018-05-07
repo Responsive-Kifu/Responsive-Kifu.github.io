@@ -18,6 +18,13 @@
 上記依存関係のものをインストールします。
 最新版をインストールすることを推奨します。
 
+ソースコードを取得します。
+
+```
+$ git clone git@github.com:Responsive-Kifu/Responsive-Kifu.git
+$ cd Responsive-Kifu
+```
+
 その後
 
 ```
